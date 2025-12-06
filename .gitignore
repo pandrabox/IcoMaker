@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+
+# Temporary files
+*.swp
+*~
+
+# Logs
+*.log
+
+# Distributed build cache
+build/**
+
+# Windows
+Thumbs.db
+
+# JetBrains
+*.iml
+
+# Secrets (never commit)
+*.pem
+*.key
+
+# Ignore GitHub Actions if you want
+# .github/
