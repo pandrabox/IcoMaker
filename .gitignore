@@ -60,3 +60,7 @@ Thumbs.db
 
 # Ignore GitHub Actions if you want
 # .github/
+
+# Input/Output folders (user data)
+img/
+icons/
